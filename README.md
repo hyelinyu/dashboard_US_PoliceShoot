@@ -4,7 +4,7 @@
 
 ## Links
 
-- **Tableau Dashboard:** [대시보드 바로가기]([TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/hye.lin.yu/viz/U_SPoliceShootingsOverview2015-2024/USPoliceShooting))
+- **Tableau Dashboard:** [대시보드 바로가기](https://public.tableau.com/app/profile/hye.lin.yu/viz/U_SPoliceShootingsOverview2015-2024/USPoliceShooting)
 
 
 
