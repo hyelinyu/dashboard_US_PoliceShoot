@@ -2,7 +2,7 @@
 
 미국 경찰 총격 사망 사건 데이터를 분석하고, 주요 현황을 한눈에 확인할 수 있도록 제작한 Tableau 대시보드입니다.
 
-Source from The Washington Post
+- Source from The Washington Post
 
 
 ## Links
