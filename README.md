@@ -6,7 +6,11 @@
 
 - **Tableau Dashboard:** [대시보드 바로가기](https://public.tableau.com/app/profile/hye.lin.yu/viz/U_SPoliceShootingsOverview2015-2024/USPoliceShooting)
 
+## Dashboard Demo
 
+[![U.S. Police Shootings Dashboard Demo](assets/dashboard-demo.gif)](https://public.tableau.com/app/profile/hye.lin.yu/viz/U_SPoliceShootingsOverview2015-2024/USPoliceShooting)
+
+GIF를 클릭하면 인터랙티브 Tableau 대시보드로 이동합니다.
 
 ## Project Overview
 
